@@ -4,6 +4,10 @@
 
 I'm a Software Engineer based in **Kolkata, India**, focused on building **scalable backend systems**, **AI-powered applications**, and **developer tools**.
 
+- 🌏 Based in **Kolkata, India**
+- 🖥️ Explore My Work: <a href="https://keshavsaraogi.github.io/portfolio/">Portfolio</a>
+- 📧 Contact Me @: keshavsaraogi04@gmail.com
+
 I enjoy working at the intersection of:
 - 🤖 Applied AI & LLM systems  
 - ⚙️ Backend engineering & data pipelines  
