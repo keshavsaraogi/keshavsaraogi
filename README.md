@@ -11,6 +11,8 @@ I enjoy working at the intersection of:
 
 Outside of work, I’m deeply into **Chess** ♟️ — which heavily influences how I think about systems, trade-offs, and long-term strategy.
 
+![snake gif](https://github.com/keshavsaraogi/keshavsaraogi/blob/output/github-snake.svg)
+
 ---
 
 <h3 align="left">📱 Let's Connect</h3>
