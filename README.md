@@ -7,16 +7,13 @@ I'm a Software Engineer based in **Kolkata, India**, focused on building
 **developer-facing tools**.
 
 - 🌏 Based in **Kolkata, India**
-- 🖥️ Explore my work: <a href="https://keshavsaraogi.github.io">Portfolio</a>
-- 📧 Reach me at: **keshavsaraogi04@gmail.com**
 
 I enjoy working at the intersection of:
-- 🤖 Applied AI & LLM systems  
-- ⚙️ Backend engineering & Data Pipelines  
-- 📊 Knowledge graphs, automation, and productivity tools  
+- 🤖 Artificial Intelligence and Large Language Models
+- ⚙️ Web and Mobile Applications  
+- 📊 Machine Learning and Generative AI
 
-Outside of work, I’m deeply into **Chess ♟️**, which influences how I think
-about system design, trade-offs, and long-term strategy.
+Outside of work, I’m deeply into **Chess ♟️**, which influences how I think about system design, trade-offs, and long-term strategy.
 
 ---
 
