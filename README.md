@@ -34,7 +34,7 @@ about system design, trade-offs, and long-term strategy.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Gmail - keshavsaraogi04@gmail.com" />
   </a>&ensp;
-  <a href="https://keshavsaraogi.github.io/portfolio/" target="_blank">
+  <a href="https://keshavsaraogi.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
          alt="Portfolio - keshavsaraogi.dev" />
   </a>
