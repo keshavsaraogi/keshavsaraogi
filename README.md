@@ -7,7 +7,7 @@ I'm a Software Engineer based in **Kolkata, India**, focused on building
 **developer-facing tools**.
 
 - 🌏 Based in **Kolkata, India**
-- 🖥️ Explore my work: <a href="https://keshavsaraogi.github.io/portfolio/">Portfolio</a>
+- 🖥️ Explore my work: <a href="https://keshavsaraogi.github.io">Portfolio</a>
 - 📧 Reach me at: **keshavsaraogi04@gmail.com**
 
 I enjoy working at the intersection of:
