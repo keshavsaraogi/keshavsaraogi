@@ -3,10 +3,7 @@
 ## Software Engineer — AI Systems & Scalable Backends
 
 I'm a Software Engineer based in **Kolkata, India**, focused on building
-**scalable backend systems**, **AI-powered applications**, and
-**developer-facing tools**.
-
-- 🌏 Based in **Kolkata, India**
+**scalable backend systems**, and **AI-powered applications**. 
 
 I enjoy working at the intersection of:
 - 🤖 Artificial Intelligence and Large Language Models
@@ -14,8 +11,6 @@ I enjoy working at the intersection of:
 - 📊 Machine Learning and Generative AI
 
 Outside of work, I’m deeply into **Chess ♟️**, which influences how I think about system design, trade-offs, and long-term strategy.
-
----
 
 <h3 align="left">📱 Let's Connect</h3>
 <p align="left">
@@ -46,5 +41,3 @@ Outside of work, I’m deeply into **Chess ♟️**, which influences how I thin
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
