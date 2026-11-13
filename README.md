@@ -19,10 +19,10 @@ Outside of work, I’m deeply into **Chess ♟️**, which influences how I thin
 
 <h3 align="left">📱 Let's Connect</h3>
 <p align="left">
-  <a href="https://twitter.com/_keshavsaraogi" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
-         alt="Twitter - @_keshavsaraogi" />
-  </a>&ensp;
+  <a href="https://keshavsaraogi.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+         alt="Portfolio - keshavsaraogi.dev" />
+  </a>
   <a href="https://linkedin.com/in/keshav-saraogi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn - keshav-saraogi" />
@@ -31,10 +31,6 @@ Outside of work, I’m deeply into **Chess ♟️**, which influences how I thin
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Gmail - keshavsaraogi04@gmail.com" />
   </a>&ensp;
-  <a href="https://keshavsaraogi.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
-         alt="Portfolio - keshavsaraogi.dev" />
-  </a>
 </p>
 
 ---
@@ -52,8 +48,3 @@ Outside of work, I’m deeply into **Chess ♟️**, which influences how I thin
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/keshavsaraogi/keshavsaraogi/raw/output/github-snake.svg"
-       alt="GitHub contribution snake" />
-</p>
